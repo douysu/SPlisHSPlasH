@@ -1,1 +1,1 @@
-.\StaticBoundaryDemo.exe --no-cache ../data/scenes/WaterBoxDrop.json
+.\bin\StaticBoundaryDemo.exe ../data/scenes/WaterBoxDrop.json

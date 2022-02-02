@@ -1,1 +1,1 @@
-.\DynamicBoundaryDemo.exe ../data/scenes/DoubleDamBreakWithSphere.json
+.\bin\DynamicBoundaryDemo.exe ../data/scenes/DoubleDamBreakWithSphere.json

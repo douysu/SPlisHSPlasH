@@ -1,1 +1,1 @@
-.\StaticBoundaryDemo.exe ../data/scenes/DamBreakModelDragons.json
+.\bin\StaticBoundaryDemo.exe ../data/scenes/DamBreakModelDragons.json

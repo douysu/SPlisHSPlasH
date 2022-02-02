@@ -1,1 +1,1 @@
-.\DynamicBoundaryDemo.exe --no-cache ../data/scenes/TankWithSpheres.json
+.\bin\DynamicBoundaryDemo.exe --no-cache ../data/scenes/TankWithSpheres.json

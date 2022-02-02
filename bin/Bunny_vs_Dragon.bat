@@ -1,1 +1,1 @@
-.\StaticBoundaryDemo.exe ../data/scenes/Bunny_vs_Dragon.json
+.\bin\StaticBoundaryDemo.exe ../data/scenes/Bunny_vs_Dragon.json

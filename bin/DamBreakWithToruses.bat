@@ -1,1 +1,1 @@
-.\DynamicBoundaryDemo.exe --no-cache ../data/scenes/DamBreakWithToruses.json
+.\bin\DynamicBoundaryDemo.exe --no-cache ../data/scenes/DamBreakWithToruses.json
