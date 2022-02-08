@@ -1,0 +1,1 @@
+.\bin\DynamicBoundaryDemo.exe ../data/scenes/ch5_3.json
