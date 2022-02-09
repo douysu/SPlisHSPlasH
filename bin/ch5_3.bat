@@ -1,1 +1,1 @@
-.\bin\DynamicBoundaryDemo.exe ../data/scenes/ch5_3.json
+.\bin\DynamicBoundaryDemo.exe --no-cache ../data/scenes/ch5_3.json
